@@ -1,0 +1,11 @@
+hopsworks[python]==4.2.5
+hsml
+requests
+pandas 
+numpy
+scikit-learn>=1.3.0
+joblib
+python-dotenv
+streamlit
+matplotlib
+seaborn
